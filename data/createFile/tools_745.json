@@ -1,0 +1,1 @@
+{"projectId":"745","selectedToolsList":{"ScmTools":"BitBucket","PmTools":"JIRA","AgileMethodologyTools":"KanBan","BuildServerTools":"Bamboo","UnitTestTools":["Junit","NUnit"],"CodeCoverageTools":"NewRelic","BugTrackingTools":"Bugzilla","ContinuousDeliveryTools":"AWS","ContinuousDeploymentTools":"Nexus"}}

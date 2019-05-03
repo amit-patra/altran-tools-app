@@ -1,0 +1,81 @@
+{
+  "745": {
+    "PROJECTCODE": "745",
+    "Scm": {
+      "totalSprints": 8,
+      "activeSprint": 5,
+      "totalIssuesInCurrentSprint": 4,
+      "toDoIssuesInCurrentSprint": 3
+    },
+    "Pm": {
+      "totalCommitsYday": 2,
+      "totalCommitsSoFar": 30
+    },
+    "AgileMethodology": {
+      "lastBuildNumber": "1123A"
+    },
+    "BuildServer": {
+      "totalSprints": 8,
+      "activeSprint": 5,
+      "totalIssuesInCurrentSprint": 4
+    },
+    "UnitTest": {
+      "totalCommitsYday": 2,
+      "totalCommitsSoFar": 30
+    },
+    "CodeCoverage": {
+      "totalSprints": 8,
+      "activeSprint": 5,
+      "totalIssuesInCurrentSprint": 4
+    },
+    "BugTracking": {
+      "totalSprints": 6,
+      "activeSprint": 3,
+      "totalIssuesInCurrentSprint": 8
+    },
+    "ContinuousDelivery": {
+      "totalSprints": 6,
+      "activeSprint": 6,
+      "totalIssuesInCurrentSprint": 7
+    },
+    "ContinuousDeployment": {
+      "totalSprints": 8,
+      "activeSprint": 5,
+      "totalIssuesInCurrentSprint": 4
+    }
+  },
+  "1000": {
+    "PROJECTCODE": "1000",
+    "JIRA": {
+      "totalSprints": 8,
+      "activeSprint": 5,
+      "totalIssuesInCurrentSprint": 4,
+      "toDoIssuesInCurrentSprint": 3,
+      "inProgressIssuesInCurrentSprint": 1
+    },
+    "GIT": {
+      "totalCommitsYday": 2,
+      "totalCommitsSoFar": 30
+    },
+    "JENKINS": {
+      "lastBuildNumber": "1123A"
+    }
+  },
+  "1001": {
+    "PROJECTCODE": "1001",
+    "JIRA": {
+      "totalSprints": 20,
+      "activeSprint": 8,
+      "totalIssuesInCurrentSprint": 14,
+      "toDoIssuesInCurrentSprint": 4,
+      "inProgressIssuesInCurrentSprint": 10
+    },
+    "GIT": {
+      "totalCommitsYday": 5,
+      "totalCommitsSoFar": 63
+    },
+    "JENKINS": {
+      "lastBuildNumber": "2323A"
+    }
+  }
+}

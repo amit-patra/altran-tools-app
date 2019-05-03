@@ -1,0 +1,46 @@
+{
+    "Scm": [
+        "Git",
+        "GitHub",
+        "BitBucket",
+        "GitLabs"
+    ],
+    "Pm": [
+        "JIRA"
+    ],
+    "AgileMethodology": [
+        "Scrum",
+        "KanBan"
+    ],
+    "BuildServer": [
+        "Jenkins",
+        "Bamboo",
+        "Travis",
+        "CircleCI",
+        "Gitrunner",
+        "BuddyWorks"
+    ],
+    "UnitTest": [
+        "NUnit",
+        "Junit"
+    ],
+    "CodeCoverage": [
+        "SonarQube",
+        "NewRelic"
+    ],
+    "BugTracking": [
+        "JIRA",
+        "Bugzilla"
+    ],
+    "ContinuousDelivery": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "GCE",
+        "Azure"
+    ],
+    "ContinuousDeployment": [
+        "Artifactory",
+        "Nexus"
+    ]
+}

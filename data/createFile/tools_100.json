@@ -1,0 +1,1 @@
+{"projectId":"100","selectedToolsList":{"ScmTools":"GitHub","PmTools":"JIRA","AgileMethodologyTools":"Scrum","BuildServerTools":"Travis","CodeCoverageTools":"NewRelic","BugTrackingTools":"Bugzilla","ContinuousDeploymentTools":"Nexus","UnitTestTools":["Junit","NUnit"],"ContinuousDeliveryTools":"AWS"}}

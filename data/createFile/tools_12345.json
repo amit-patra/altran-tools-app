@@ -1,0 +1,1 @@
+{"projectId":"12345","selectedToolsList":{"ScmTools":"GitLabs","PmTools":"JIRA","AgileMethodologyTools":"KanBan","BuildServerTools":"CircleCI","UnitTestTools":"NUnit","CodeCoverageTools":"NewRelic","BugTrackingTools":"Bugzilla","ContinuousDeliveryTools":"Kubernetes","ContinuousDeploymentTools":"Nexus"}}
